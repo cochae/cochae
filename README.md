@@ -1,4 +1,3 @@
-## Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=cochae)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![cochae's github stats](https://github-readme-stats.vercel.app/api?username=cochae&show_icons=true)
