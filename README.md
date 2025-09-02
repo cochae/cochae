@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=cochae)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![cochae's github stats](https://github-readme-stats.vercel.app/api?username=cochae&show_icons=true)
