@@ -1,6 +1,9 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{cochae}?pet-id=1" width="1000" height="120"/>
   <img src="https://render.gitanimals.org/lines/{cochae}?pet-id=2" width="1000" height="120"/>
+    <img src="https://render.gitanimals.org/lines/{cochae}?pet-id=3" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{cochae}?pet-id=4" width="1000" height="120"/>
+
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cochae)](https://github.com/ryo-ma/github-profile-trophy)
