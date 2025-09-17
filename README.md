@@ -7,8 +7,12 @@
 - 📫 How to reach me: ycw1203@skuniv.ac.kr / https://cochae.tistory.com/
 - ⚡ Fun fact: ~~I just took a nap.~~
 
-- <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{cochae}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cochae&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/cochae"
+  width="600"
+  height="300"
+/>
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cochae)](https://github.com/ryo-ma/github-profile-trophy)
