@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm [cochae]
 
-- 🔭 I’m currently working on a personal project using **Spring Boot**
-- 🌱 I’m currently learning **Node.js** and **React**
+- 🔭 I’m currently working on a **donakawa** project
+- 🌱 I’m currently learning **Node.js**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about . . . *nothing*
 - 📫 How to reach me: ycw1203@skuniv.ac.kr / https://cochae.tistory.com/
