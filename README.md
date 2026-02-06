@@ -43,7 +43,7 @@
 
 - **정보처리기사** (Engineer Information Processing)
 - **SQLD** (SQL Developer)
-- **TOEIC** (영어능력시험)
+- **TOEIC 800** (영어능력시험)
 
 ---
 
