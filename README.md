@@ -50,5 +50,9 @@
 ## 🌱 GitHub Activity
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cochae&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/cochae" width="600" height="300" />
+<img
+  src="https://render.gitanimals.org/farms/cochae"
+  width="600"
+  height="300"
+/>
 </a>
